@@ -9,14 +9,14 @@ braves = [
   {
     name: "テリー",
     hp: 600,
-    offense: 200,
-    defense: 150
+    offense: 250,
+    defense: 50
   },
   {
     name: "ヨシヒコ",
     hp: 2000,
-    offense: 10,
-    defense: 300
+    offense: 500,
+    defense: 50
   }
 ]
 
@@ -37,7 +37,7 @@ monsters = [
     name: "スライムC",
     hp: 1000,
     offense: 50,
-    defense: 1000
+    defense: 200
   }
 ]
 
